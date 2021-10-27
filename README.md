@@ -1,4 +1,4 @@
-# Raka
+# UTS Praktikum Mikroprosesor (Raka Dhijan Ananda (1197070062))
 Kode Program jam Digital simulasi keil Proteus menggunakan mikroprosesor AT89C51
 //jam Digital simulasi keil Proteus
 #include<reg51.h>
