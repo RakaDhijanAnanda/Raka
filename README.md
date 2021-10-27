@@ -1,5 +1,5 @@
 # Raka
-Kode Program jam Digital simulasi keil Proteus
+Kode Program jam Digital simulasi keil Proteus menggunakan mikroprosesor AT89C51
 //jam Digital simulasi keil Proteus
 #include<reg51.h>
 
